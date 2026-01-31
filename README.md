@@ -1,9 +1,3 @@
-GitHub 리포지토리의 대문인 `README.md`에 들어갈 내용을 **전문적이고 상세하게** 작성해 드립니다.
-
-이 내용을 그대로 복사해서 `README.md` 파일에 붙여넣으시면, 다른 개발자들이나 채용 담당자가 봤을 때 **"이 사람, 문서화까지 제대로 하는구나"** 라는 인상을 줄 수 있습니다.
-
----
-
 # Ghostwriter (AI Blog Post Generator)
 
 **Ghostwriter** is an AI-powered productivity tool designed to transform fragmented information from images into perfectly structured, engaging blog posts. Leveraging **Upstage's Document OCR** and **Solar LLMs**, it acts as your personal "Ghostwriter," converting raw visual data into professional content in seconds.
